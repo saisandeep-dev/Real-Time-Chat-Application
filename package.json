@@ -8,8 +8,8 @@
       "start": "node app.js"
    },
    "keywords": [],
-   "author": "Mehedi Islam Ripon",
-   "license": "ISC",
+   "author": "Sai Sandeep",
+   "license": "",
    "dependencies": {
       "express": "^4.17.1",
       "moment-timezone": "^0.5.33",
